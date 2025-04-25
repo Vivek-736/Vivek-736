@@ -56,15 +56,3 @@
 </p>
 
 ---
-
-## 💡 Fun Projects or Contributions?
-
-> 🤝 _"Always open to collaborate on full-stack web and mobile app projects!"_
-
----
-
-## 📜 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</p>
