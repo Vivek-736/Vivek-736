@@ -59,7 +59,7 @@
 
 ## 💡 Fun Projects or Contributions?
 
-> 🧠 _"Always open to collaborate on full-stack web and mobile app projects!"_
+> 🤝 _"Always open to collaborate on full-stack web and mobile app projects!"_
 
 ---
 
