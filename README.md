@@ -2,8 +2,8 @@
 <h2 align="center">✨ But hey, you can call me Vivek</h2>
 <h3 align="center">🚀 Developer from India | Real-World Project Enthusiast | DSA Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Native+Learner;Loves+Next.js+%26+Tailwind+💙;Let's+build+something+cool+together+😎" alt="Typing SVG" />
+<p align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;React+Native+Learner;Loves+Next.js+and+Tailwind+💙" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=vue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=radical&hide_border=true" />
 </p>
 
 ---
