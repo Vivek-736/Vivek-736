@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Developer from India | Real-World Project Enthusiast | DSA Explorer</h3>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;React+Native+Learner;Loves+Next.js+and+Tailwind+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;React+Native+Learner;Loves+Next.js+and+Tailwind+💙" alt="Typing SVG" />
 </p>
 
 ---
