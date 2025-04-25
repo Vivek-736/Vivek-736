@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=catppuccin-latte&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=github-light&hide_border=true" />
 </p>
 
 ---
