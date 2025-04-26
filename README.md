@@ -18,6 +18,14 @@
 
 ---
 
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek-736&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-736" />
+</p>
+
+---
+
 ## 🛠️ Tech Toolbox
 
 <p align="center">
