@@ -21,7 +21,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,tailwind,prisma,mongodb,mysql,c,java,python,cpp,kotlin,django,git,figma,vscode,vercel,postman,firebase,expo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,tailwind,prisma,mongodb,mysql,c,java,python,cpp,kotlin,django,git,figma,vscode,vercel,postman,firebase,postgresql" />
 </p>
 
 ---
