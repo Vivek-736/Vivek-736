@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15&v=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15" />
 </p>
 
 ---
@@ -63,4 +63,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=github-light&hide_border=true&v=1" />
 </p>
 
----
