@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15&v=1" />
 </p>
 
 ---
