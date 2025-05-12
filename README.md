@@ -29,7 +29,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,tailwind,prisma,mongodb,mysql,postgresql,firebase,c,java,python,cpp,kotlin,django,git,github,figma,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,expressjs,tailwind,prisma,mongodb,mysql,postgresql,firebase,c,java,python,cpp,kotlin,django,git,github,figma,vscode,vercel,postman,googlecloud" />
 </p>
 
 ---
