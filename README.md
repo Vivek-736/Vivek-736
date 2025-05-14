@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15&v=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&title=Stars,Commits,Repositories,PullRequest,Followers&margin-w=10&margin-h=15&v=2" />
 </p>
 
 ---
@@ -55,11 +55,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-736&show_icons=true&theme=vue&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-736&layout=compact&theme=vue&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek-736&show_icons=true&theme=vue&hide_border=true&v=2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-736&layout=compact&theme=vue&hide_border=true&v=2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=github-light&hide_border=true&v=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=github-light&hide_border=true&v=2" />
 </p>
 
