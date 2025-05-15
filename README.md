@@ -2,7 +2,7 @@
 <h2 align="center">✨ But hey, you can call me Vivek</h2>
 <h3 align="center">🚀 Developer in making from India | Real-World Project Enthusiast | DSA Explorer</h3>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 25px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&width=600&height=50&lines=Emerging+Full+Stack+Web+Developer&repeat=false" alt="Typing SVG line 1" />
 </p>
 <p align="center" style="margin-bottom: 20px;">
