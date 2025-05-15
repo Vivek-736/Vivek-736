@@ -3,7 +3,10 @@
 <h3 align="center">🚀 Developer in making from India | Real-World Project Enthusiast | DSA Explorer</h3>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Emerging+Full+Stack+Web+Developer; ;Loves+Next.js,+React+and+Tailwind+💙&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&width=600&height=50&lines=Emerging+Full+Stack+Web+Developer" alt="Typing SVG line 1" />
+</p>
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&width=600&height=50&lines=Loves+Next.js,+React+and+Tailwind+💙" alt="Typing SVG line 2" />
 </p>
 
 ---
