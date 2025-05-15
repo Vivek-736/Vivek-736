@@ -13,8 +13,8 @@
 
 ## 🧠 About Me
 
-- 💬 Ask me about **Next.js, React, TailwindCSS, Prisma, MongoDB**
 - ✨ I love **clean code, open-source & real-world projects**
+- 💬 Ask me about **Next.js, React, TailwindCSS, Prisma, MongoDB**
 - 📫 Reach me at: **vivekvrc777@gmail.com**
 - 🧠 Fun Fact: **I introspect more than I blink 😄**
 
