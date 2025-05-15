@@ -1,16 +1,15 @@
 <h1 align="center" style="font-size: 48px;">Hey 👋, I'm Ramcharan</h1>
 <h2 align="center">✨ But hey, you can call me Vivek</h2>
-<h3 align="center">🚀 Developer from India | Real-World Project Enthusiast | DSA Explorer</h3>
+<h3 align="center">🚀 Developer in making from India | Real-World Project Enthusiast | DSA Explorer</h3>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Emerging+Full+Stack+Web+Developer;React+Native+Learner;Loves+Next.js,+React+and+Tailwind+💙&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Emerging+Full+Stack+Web+Developer;Loves+Next.js,+React+and+Tailwind+💙&repeat=false" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently learning **React Native** and **Clean Architecture**
 - 💬 Ask me about **Next.js, React, TailwindCSS, Prisma, MongoDB**
 - ✨ I love **clean code, open-source & real-world projects**
 - 📫 Reach me at: **vivekvrc777@gmail.com**
@@ -62,4 +61,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=github-light&hide_border=true&v=2" />
 </p>
-
