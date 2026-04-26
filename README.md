@@ -61,12 +61,7 @@ Passionate **Full-Stack Engineer** and **Technical Innovator** with a relentless
 ## 📊 Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-736&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=374151&text_color=374151&icon_color=6B7280&bg_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-736&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=374151&text_color=374151&bg_color=FFFFFF" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-736&theme=default&hide_border=true&stroke=E5E7EB&ring=374151&fire=6B7280&currStreakLabel=374151&dates=6B7280&currStreakNum=374151&sideNums=374151&sideLabels=6B7280&background=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek-736&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Vivek-736's GitHub Stats" />
 </div>
 
 <br>
