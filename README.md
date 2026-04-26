@@ -12,17 +12,15 @@
 
 Passionate **Full-Stack Engineer** and **Technical Innovator** with a relentless drive to craft exceptional digital experiences. Specializing in modern web technologies and cloud-native architectures, bridging the gap between visionary concepts and production-ready solutions.
 
-**Core Philosophy:** *"Great software anticipates needs, exceeds expectations, and creates experiences users didn't know they needed."*
-
 <br>
 
 ## 🚀 Technical Excellence
 
 ### Engineering Principles
-• **Performance-First** — Every millisecond counts in user experience  
 • **Scalability by Design** — Building for tomorrow's growth today  
-• **Security-Conscious** — Robust authentication and data protection  
+• **Performance-First** — Every millisecond counts in user experience  
 • **Clean Architecture** — Maintainable, testable, documentation-driven code  
+• **Security-Conscious** — Robust authentication and data protection  
 
 <br>
 
@@ -73,14 +71,6 @@ Passionate **Full-Stack Engineer** and **Technical Innovator** with a relentless
 
 <br>
 
-## 🏆 Recognition & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-736&theme=flat&no-frame=true&margin-w=5&margin-h=5&row=1&column=6&title=MultiLanguage,Stars,Commits,PullRequest,Repositories,Followers" />
-</div>
-
-<br>
-
 ## 🌐 Professional Network
 
 <div align="center">
@@ -95,7 +85,7 @@ Passionate **Full-Stack Engineer** and **Technical Innovator** with a relentless
 
 ## 💭 Philosophy & Vision
 
-> *"Working with non-attachment is complete self-abnegation."*
+> "Working with non-attachment is complete self-abnegation."
 
 **Current Focus** — Building scalable web applications that combine cutting-edge technology with intuitive user experiences, while contributing to open-source projects that benefit the global developer community.
 
