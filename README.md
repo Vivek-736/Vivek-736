@@ -5,7 +5,7 @@
     style="
       width: 100%;
       max-width: 1200px;
-      height: 380px;
+      height: auto;
       object-fit: cover;
       object-position: center;
       border-radius: 12px;
