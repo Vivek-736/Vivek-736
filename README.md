@@ -2,10 +2,12 @@
   <img 
     src="./profileImage.png"
     alt="README Banner"
-    width="100%"
     style="
-      max-width: 100%;
-      height: auto;
+      width: 100%;
+      max-width: 1200px;
+      height: 260px;
+      object-fit: cover;
+      object-position: center;
       border-radius: 12px;
       display: block;
     "
