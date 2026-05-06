@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./profileImage.png"
+    src="./profileImage.jpg"
     alt="README Banner"
     style="
       width: 100%;
