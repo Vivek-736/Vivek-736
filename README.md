@@ -1,3 +1,12 @@
 <p align="center">
-  <img src="https://jbljn51yb9.ufs.sh/f/2QAmoQnG1d4DoMma3RSC6jGyYaxTQLAOcmohvg0FZS7rKpe1" style="width:100%; height:460px; object-fit:cover;" />
+  <img src="https://jbljn51yb9.ufs.sh/f/2QAmoQnG1d4DoMma3RSC6jGyYaxTQLAOcmohvg0FZS7rKpe1"
+    style="
+      width: 100%;
+      height: clamp(220px, 35vw, 360px);
+      object-fit: cover;
+      display: block;
+      border-radius: 12px;
+    "
+    alt="README banner"
+  />
 </p>
